@@ -6,3 +6,4 @@ after that use / git add .  /<br>
 then use git push origin feature1/2/3/4/5/6 <br>
 rest i will handle<br>
 -idj
+f10
